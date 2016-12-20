@@ -5,11 +5,11 @@ APP_ID = 5786100
 
 
 def get_user_login():
-    return input('Input your user name')
+    return input('Input your user name: ')
     
 
 def get_user_password():
-    return input('Input your password')
+    return input('Input your password: ')
    
 
 def get_online_friends(login, password):
