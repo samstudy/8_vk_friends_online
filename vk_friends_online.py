@@ -6,13 +6,11 @@ APP_ID = 5786100
 
 def get_user_login():
     return input('Input your user name')
-    pass
-
+    
 
 def get_user_password():
     return input('Input your password')
-    pass
-
+   
 
 def get_online_friends(login, password):
     session = vk.AuthSession(
