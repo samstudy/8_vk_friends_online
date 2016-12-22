@@ -1,16 +1,16 @@
 import vk
-
+import getpass
 
 APP_ID = 5786100 
 
 
 def get_user_login():
-    return input('Input your user name: ')
+    return input('Insert your user name: ')
     
 
 def get_user_password():
-    return input('Input your password: ')
-   
+    pswd=getpass.getpass('Insert your password: ') 
+    return pswd
 
 def get_online_friends(login, password):
     session = vk.AuthSession(
