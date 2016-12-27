@@ -1,4 +1,4 @@
-    ` # 8_vk_friends_online `
+# ```8_vk_friends_online```
 
 
 `**The script will show list of your friends which status are online**`
@@ -12,7 +12,7 @@
 ### Usage
 
 
-- Run the script `**vk_friends_online.py**`:
+- Run the script **vk_friends_online.```y**:
     - Script will require your account user
     - Script will require your password,also notify that during type your password will be hidden
 
