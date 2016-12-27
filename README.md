@@ -9,10 +9,10 @@
 
 - `Need to install module for work with **vk api** by command **pip install -r requirement**`.
 
-### Usage
+### `Usage`
 
 
-``` - Run the script **vk_friends_online.**:
+- ```Run the script **vk_friends_online.**:
     - Script will require your account user
     - Script will require your password,also notify that during type your password will be hidden
 ```
