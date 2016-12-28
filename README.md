@@ -13,8 +13,8 @@ ___
 ### Usage
 
 
-- `Run the script vk_friends_online`.:
-    - `Script will require your account user`
-    - `Script will require your password,also notify that during type your password will be hidden`
+    Run the script vk_friends_online.:
+        - Script will require your account user`
+        - Script will require your password,also notify that during type your password will be hidden`
 
 
