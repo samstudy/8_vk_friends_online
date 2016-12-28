@@ -9,7 +9,7 @@ ___
 ##Requirement
 
 
-    - Need to install module for work with vk api by command pip install -r requirement.
+    -Need to install module for work with vk api by command pip install -r requirement.
 
 ### `Usage`
 
