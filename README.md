@@ -1,3 +1,5 @@
+![Vk](https://cloud.githubusercontent.com/assets/22424468/21524009/1961083a-cd3d-11e6-964f-a8a03fe0255b.png)
+
 # ```8_vk_friends_online```
 
 
