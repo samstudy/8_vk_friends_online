@@ -8,9 +8,9 @@ ___
 
 ##Requirement
 
-____
-____    Need to install module for work with vk api by command pip install -r requirement.
-### `Usage`
+
+    Need to install module for work with vk api by command pip install -r requirement.
+### Usage
 
 
 - `Run the script vk_friends_online`.:
